@@ -1,0 +1,66 @@
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.exe
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.deps.json
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.runtimeconfig.json
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.pdb
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.csproj.AssemblyReference.cache
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.AssemblyInfoInputs.cache
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.AssemblyInfo.cs
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.csproj.CoreCompileInputs.cache
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\scopedcss\bundle\CustomerRewardSystem.styles.css
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.csproj.CopyComplete
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\refint\CustomerRewardSystem.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.pdb
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.genruntimeconfig.cache
+C:\Users\parin\source\repos\CustomerRewardSystem\obj\Debug\net6.0\ref\CustomerRewardSystem.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\parin\source\repos\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.exe
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.deps.json
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.runtimeconfig.json
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\CustomerRewardSystem.pdb
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.csproj.AssemblyReference.cache
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.AssemblyInfoInputs.cache
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.AssemblyInfo.cs
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.csproj.CoreCompileInputs.cache
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\scopedcss\bundle\CustomerRewardSystem.styles.css
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.csproj.CopyComplete
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\refint\CustomerRewardSystem.dll
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.pdb
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\CustomerRewardSystem.genruntimeconfig.cache
+C:\Users\parin\Parin Patel\Projects\Dot Net\CustomerRewardSystem\obj\Debug\net6.0\ref\CustomerRewardSystem.dll
